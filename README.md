@@ -1,2 +1,3 @@
-# WizjaKomputerowa-Ocena-dojrzalosci-banana
-Algorytm oceniający dojrzałość banana na podstawie zdjęcia
+# Algorytm oceniający dojrzałość banana na podstawie zdjęcia
+
+Jakub Biedrzycki, 76619, jbiedrzycki@st.swps.edu.pl
